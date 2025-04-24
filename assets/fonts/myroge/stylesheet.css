@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'MYROGE';
+    src: url('MYROGE-Regular.eot');
+    src: local('MYROGE Regular'), local('MYROGE-Regular'),
+        url('MYROGE-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MYROGE-Regular.woff2') format('woff2'),
+        url('MYROGE-Regular.woff') format('woff'),
+        url('MYROGE-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
